@@ -1,239 +1,87 @@
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<div align="center">
 
-<!-- [![MasterHead](./docs/github-cover-1.jpeg)](https://github.com/alithemba-io) -->
-
-<h4 align="center">WEB, MOBILE, XR DEVELOPER</h4>
-
-<!-- #region Widgets -->
-
-<h3 align="left">Languages</h3>
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-    alt="c"
-    width="40"
-    height="40"
-  />
+<a href="https://github.com/alithemba-io">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=48&lines=Web+%C2%B7+Mobile+%C2%B7+XR+Engineer;Building+at+the+edge+of+spatial+computing;Researching+security+in+cyber-physical+systems;C.R.E.A.M.+%E2%86%92+Clean%2C+Readable%2C+Elegant%2C+Maintainable" alt="headline" />
 </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-    alt="cplusplus"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-    alt="csharp"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-<a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.java.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
 
-<h3 align="left">Libraries | Frameworks | Engines</h3>
-  <a href="https://unity.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-      alt="unity"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet"
-      width="40"
-      height="40"
-    />
-  </a>
-<a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
+</div>
 
+---
 
-<!-- #region Design -->
-<h3 align="left">Design</h3>
-<a href="https://www.figma.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-<a href="https://www.framer.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg"
-      alt="framer"
-      width="40"
-      height="40"
-    />
-  </a>
+<table>
+<tr>
+<td valign="top" width="56%">
 
-<!-- #endregion -->
-<h3 align="left">CI/CD | DevOps | SaaS | PaaS</h3>
-  
-  <a href="https://firebase.google.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
+### `~/ whoami`
 
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-<h3 align="left">Other</h3>
-<a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-<a href="https://postman.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
+I build where **spatial computing** meets **full-stack systems** meets **cyber-physical security** — immersive experiences, web services, and the security frameworks that keep the seams between them from leaking.
 
-<!-- #region Icons -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
+Most days I'm either:
 
+&nbsp;&nbsp;→&nbsp; wiring up interaction systems in Unity / Meta Quest SDK
+&nbsp;&nbsp;→&nbsp; shipping React + Node services behind PostgreSQL
+&nbsp;&nbsp;→&nbsp; writing about how to threat-model a digital twin
+&nbsp;&nbsp;→&nbsp; making cleaner commits than I did yesterday
 
-  
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
+```ts
+const engineer = {
+  focus:     ["spatial computing", "full-stack", "cyber-physical security"],
+  stack:     ["C#/Unity", "TypeScript/React", "Python", "Node"],
+  currently: "immersive XR + digital-twin security research",
+  exploring: ["edge AI", "federated learning", "real-time 3D"],
+  principle: "ship code like you're signing your name on it",
+};
+```
+
+</td>
+<td valign="top" width="44%">
+
+### `~/ now`
+
+```bash
+$ cat ~/now.md
+```
+
+```text
+[building]   interaction systems for
+             immersive XR applications
+[reading]    Saltzer & Schroeder, '75
+             (still holds up)
+[exploring]  adversarial ML &
+             threat modelling for DTs
+[shipping]   small, often.
+```
+
+> *"We shape our tools, and thereafter our tools shape us."*
+> &nbsp;&nbsp;— Marshall McLuhan
+
+</td>
+</tr>
+</table>
+
+### `~/ signal`
+
+<p align="left">
+  <a href="https://github.com/alithemba-io">
+    <img src="https://github-readme-stats.vercel.app/api?username=alithemba-io&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="github stats" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
+  <a href="https://github.com/alithemba-io">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alithemba-io&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="top languages" />
   </a>
-  <!-- #endregion -->
 </p>
 
-<!--
-**alithemba-io/alithemba-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=alithemba-io&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<sub>
+
+*`∴ every complex system is a cyber-physical system at insufficient resolution.`*
+
+</sub>
+
+</div>
